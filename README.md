@@ -2,7 +2,7 @@
 In this app the user will be able to view different types of sneakers. Also the user will be able to view the price.
 
 
-#Networking
+# Networking
 
 
 -Home screen
