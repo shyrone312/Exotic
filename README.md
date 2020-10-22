@@ -25,4 +25,3 @@ In this app the user will be able to view different types of sneakers. Also the 
 
 
 
-
