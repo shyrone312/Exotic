@@ -17,6 +17,7 @@ In this app the user will be able to view different types of sneakers. Also the 
 (select) chose your size
 
 •	Save for later screen
+
 (delete) user can delete the sneaker they no longer want to save.
 
 (select) can go back and pick new sneaker to save.
