@@ -19,7 +19,8 @@ In this app the user will be able to view different types of sneakers. Also the 
 
 
 # Models
-Property	Type	Description
-ObjectId	Sting	ID for user
-Details 	String	Information about sneakers
-Price	Double	Price on shoes
+Property:	            Type:	            Description:
+
+ObjectId	            Sting	            ID for user
+Details 	           String	            Information about sneakers
+Price	               Double	              Price on shoes
