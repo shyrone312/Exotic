@@ -1,5 +1,18 @@
-# Exotic Description
-In this app the user will be able to view different types of sneakers. Also the user will be able to view the price. The category fior this app is retail, also user will be able to use Exotic on moblie only. Anybody that would like to purchase a pair of sneakers will benefit for this app. So this app is intened for sneakers purchases only and the user will be abke to view image of sneakes.
+# Exotic 
+In this app the user will be able to view different types of sneakers. Also the user will be able to view the price. 
+
+# App Evaluation
+Category: Retails
+
+Mobile: This application will be used only on a mobile device, it will be somewhat similiar to unlaced but instead you will be able to purchase sneakers.
+
+Story: Show a timeline of different sneakers options. The user is able to select which sneakers he/she would like to pick.
+
+Market: Any person who want to buy sneakers.
+
+Habit: Can be used at anytime of the day whenever a person wants to buy sneakers.
+
+Scope: We will connect a user to whatever kind of sneakers that suits them. They will have the option to save there sneakers and save them for later.
 
 
 # Networking
