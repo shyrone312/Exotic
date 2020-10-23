@@ -15,6 +15,38 @@ Habit: Can be used at anytime of the day whenever a person wants to buy sneakers
 Scope: We will connect a user to whatever kind of sneakers that suits them. They will have the option to save there sneakers and save them for later.
 
 
+
+# User Stories (Required)
+[x]User can register new account 
+[x]User can login into accout
+[x]User Select sneaker of choice
+[x]User can view sneakers on timeline
+
+(Optional)
+[x]User can save selected sneakers for later 
+
+# Screen Archetypes
+Create Screen -New user account
+
+
+Login Screen - user can login in
+
+
+Save Screen- user can see all sneaker that was saved.
+
+
+Final sale screen - user can see a summary of the final sale.
+
+# Navigtion 
+Timeline feed
+
+Saved for later feed
+
+Final sale 
+
+
+
+
 # Networking
 
 •	Home screen
