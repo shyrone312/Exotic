@@ -18,11 +18,15 @@ Scope: We will connect a user to whatever kind of sneakers that suits them. They
 
 # User Stories (Required)
 [x]User can register new account 
+
 [x]User can login into accout
+
 [x]User Select sneaker of choice
+
 [x]User can view sneakers on timeline
 
 (Optional)
+
 [x]User can save selected sneakers for later 
 
 # Screen Archetypes
