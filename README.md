@@ -77,8 +77,8 @@ Final sale
 # Models
 Property:	            Type:	            Description:
 
-ObjectId	            Sting	            ID for user;
+ObjectId	            Sting	            ID for user
 
-Details 	           String	            Information about sneakers;
+Details 	           String	            Information about sneakers
 
 Price	               Double	              Price on shoes
