@@ -1,5 +1,6 @@
-# Exotic
-In this app the user will be able to view different types of sneakers. Also the user will be able to view the price.
+# Exotic Description
+In this app the user will be able to view different types of sneakers. Also the user will be able to view the price. The category fior this app is retail, also user will be able to use Exotic on moblie only. Anybody that would like to purchase a pair of sneakers will benefit for this app. So this app is intened for sneakers purchases only and the user will be abke to view image of sneakes.
+
 
 # Networking
 
