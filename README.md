@@ -19,12 +19,7 @@ Scope: We will connect a user to whatever kind of sneakers that suits them. They
 # User Stories (Required)
 - [x] User can sign up to create a new account using Parse authentication.
 - [x] User can log in and log out of his or her account.
-
 - [x]User can view sneakers on timeline
-
-(Optional)
-
-[x]User can save selected sneakers for later 
 
 # Screen Archetypes
 Create Screen -New user account
