@@ -76,4 +76,6 @@ Details 	           String	            Information about sneakers
 Price	               Double	              Price on shoes
 
 # Walkthrough
+
 <img src='https://://github.com/shyrone312/Exotic/blob/main/ExoticSneakersApp-main/ExoticWalkthrough1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src="https://://github.com/shyrone312/Exotic/blob/main/ExoticSneakersApp-main/ExoticWalkthrough1.gif" width=250><br>
