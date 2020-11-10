@@ -83,3 +83,4 @@ Price	               Double	              Price on shoes
 
 
 <img src="https://github.com/shyrone312/Exotic/blob/main/ExoticSneakersApp-main/ExoticWalkthrough1.gif" width=250><br>
+<img src="https://github.com/shyrone312/Exotic/blob/main/exotic2.gif" width=250><br>
