@@ -20,8 +20,8 @@ Scope: We will connect a user to whatever kind of sneakers that suits them. They
 - [x] User can sign up to create a new account using Parse authentication.
 - [x] User can log in and log out of his or her account.
 - [x] User can view sneakers on timeline
-- [x] User will be able to save sneakers for later.
-- [x] User will be able to add sneakers to cart.
+- [x] User will be able to select sneaker of choice
+- [x] User will be able to buy sneaker.
 
 
 
