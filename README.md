@@ -31,6 +31,10 @@ Create Screen -New user account
 Login Screen - user can login in
 
 
+Main Screen - user will see timeline of sneakers.
+
+
+
 Save Screen- user can see all sneaker that was saved.
 
 
